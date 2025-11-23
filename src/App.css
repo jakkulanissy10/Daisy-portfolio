@@ -1,0 +1,53 @@
+.main-container {
+  background-color: black;
+  height: 200vh;
+  width: 100vw;
+  min-width: 900px; 
+}
+
+.image {
+  height: 250px;
+  width: 250px;
+  border-radius: 250px;
+  padding: 30px;
+}
+
+.division-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 50px;
+  flex-wrap: nowrap;   
+}
+
+.about-heading, .edu-heading, .skills-heading, .languages-heading, .contact-heading, .domain-heading {
+  text-decoration: underline;
+}
+
+.third-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;   
+}
+
+.forth-division {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 50px;
+  padding-left: 180px;
+  flex-wrap: nowrap;   
+}
+
+.forth-para {
+  padding-right: 50px;
+}
+
+.edu-container, .skills-container, .languages-container {
+  padding: 0 50px;
+}
+
+body {
+  overflow-x: auto;  
+}
