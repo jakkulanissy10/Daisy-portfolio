@@ -7,7 +7,7 @@ function App() {
     <div class ="main-container">
       <div className = "division-container">
         <div>
-        <img src = "https://i.ibb.co/8n7hPxjW/Daisy-pic.jpg" className = "image"/>
+        <img src = "https://res.cloudinary.com/dcmrz6wea/image/upload/v1763891164/Daisy-pic_fnstsh.jpg" className = "image"/>
         </div>
         <div>
         <h1>Daisy Jakkula</h1> 
